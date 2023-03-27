@@ -1,6 +1,5 @@
 """
 Number guessing game
-Name: Khue (Jennifer) Ha
 """
 # Put your import statements here
 import random
